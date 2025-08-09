@@ -5,7 +5,7 @@ Uwulang is a playful uwu-ified Python based language with curly braces.
 ## Installation
 
 ```bash
-pip install uwulang
+pip install git+https://github.com/SalladShooter/uwulang.git
 ```
 
 ## Usage

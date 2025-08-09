@@ -22,3 +22,16 @@ Run your uwu file:
 uwu run hewo.uwu
 ```
 
+* twue - True
+* fawse - False
+* pwint - print
+* wetun - return
+* ewse - else
+* ewse if - else if
+* whiwe - while
+* foh - for
+* fwom - from
+* impowt - import
+* cwass - class
+* fwunc - def
+* nyone - None

@@ -12,12 +12,12 @@ def create_new_file(filename):
     template = '''# Uwulang uwu template
 
 fwunc hewwo(name) {
-    pwint("hewwo, " + name + "!)
-    if twue {
-        pwint("this is an if bwock")
-    } ewse {
-        pwint("this won't wun")
-    }
+  pwint("hewwo, " + name + "!")
+  if twue {
+    pwint("this is an if bwock")
+  } ewse {
+    pwint("this won't wun")
+  }
 }
 
 hewwo("usew")

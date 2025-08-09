@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+uwulang.tmLanguage.json
+uwulang/__init__.py
+uwulang/cli.py
+uwulang/transpile.py
+uwulang.egg-info/PKG-INFO
+uwulang.egg-info/SOURCES.txt
+uwulang.egg-info/dependency_links.txt
+uwulang.egg-info/entry_points.txt
+uwulang.egg-info/top_level.txt

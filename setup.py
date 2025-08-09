@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="uwulang",
-    version="0.1.0",
+    version="0.1.1",
     description="Uwulang - a cute uwu-ified Python based language",
     url="https://github.com/SalladShooter/uwulang",
     author="SalladShooter",
